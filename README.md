@@ -2,7 +2,7 @@
 
 
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Full stack developer with a zest for exploring new technologies.</h3>
 
 
 
